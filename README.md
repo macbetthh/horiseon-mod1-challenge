@@ -10,10 +10,14 @@ This challenge required students to create a foundational codebase that followed
 [Click here to navigate to deployed/refactored page](https://macbetthh.github.io/horiseon-mod1-challenge/)
 
 ## Screenshots
+Snip of some of the HTML after refactoring \
+![Screenshot](https://github.com/macbetthh/horiseon-mod1-challenge/blob/main/assets/htmlSnip-readme.png "HTML Snip") \
 
-![Screenshot](https://github.com/macbetthh/horiseon-mod1-challenge/blob/main/assets/htmlSnip-readme.png "HTML Snip")  Snip of some of the HTML after refactoring\\
-![Screenshot](https://github.com/macbetthh/horiseon-mod1-challenge/blob/main/assets/cssSnip-readme.png "CSS Snip")  Snip of some of the CSS after refactoring\\
-![Screeshot](https://github.com/macbetthh/horiseon-mod1-challenge/blob/main/assets/liveSnip-tabIncluded-readme.png "Live Page Snip") Snip of the live page including the title showing in the tab on the browser\\
+Snip of some of the CSS after refactoring \
+![Screenshot](https://github.com/macbetthh/horiseon-mod1-challenge/blob/main/assets/cssSnip-readme.png "CSS Snip") \
+
+Snip of the live page including the title showing in the tab on the browser \
+![Screeshot](https://github.com/macbetthh/horiseon-mod1-challenge/blob/main/assets/liveSnip-tabIncluded-readme.png "Live Page Snip") \
 
 ## Credits
 
