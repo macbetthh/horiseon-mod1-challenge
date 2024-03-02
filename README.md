@@ -6,9 +6,9 @@ Provide a short description explaining the what, why, and how of your project. U
 
 This challenge required students to create a foundational codebase that followed accessiblity standards to allow the site to be better optimized for search engines. 
 
-## Installation
+## Usage
 
-N/A
+[Click here to navigate to deployed/refactored page](https://macbetthh.github.io/horiseon-mod1-challenge/)
 
 ## Credits
 
