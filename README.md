@@ -4,9 +4,9 @@
 
 This challenge required students to create a foundational codebase that followed accessiblity standards to allow the site to be better optimized for search engines. 
 
-![Screenshot]([assets\htmlSnip-readme.png?raw=true](https://github.com/macbetthh/horiseon-mod1-challenge/blob/main/assets/htmlSnip-readme.png) "HTML Snip")  snip of some of the HTML after refactoring
-![Screenshot]([assets\cssSnip-readme.png?raw=true](https://github.com/macbetthh/horiseon-mod1-challenge/blob/main/assets/cssSnip-readme.png) "CSS Snip")  snip of some of the CSS after refactoring
-![Screeshot]([assets\liveSnip-tabIncluded-readme.png?raw=true](https://github.com/macbetthh/horiseon-mod1-challenge/blob/main/assets/liveSnip-tabIncluded-readme.png) "Live Page Snip") snip of the live page including the title showing in the tab on the browser
+![Screenshot]([assets\htmlSnip-readme.png?raw=true](https://github.com/macbetthh/horiseon-mod1-challenge/blob/main/assets/htmlSnip-readme.png) "HTML Snip")  snip of some of the HTML after refactoring\
+![Screenshot]([assets\cssSnip-readme.png?raw=true](https://github.com/macbetthh/horiseon-mod1-challenge/blob/main/assets/cssSnip-readme.png) "CSS Snip")  snip of some of the CSS after refactoring\
+![Screeshot]([assets\liveSnip-tabIncluded-readme.png?raw=true](https://github.com/macbetthh/horiseon-mod1-challenge/blob/main/assets/liveSnip-tabIncluded-readme.png) "Live Page Snip") snip of the live page including the title showing in the tab on the browser\
 
 ## Usage
 
