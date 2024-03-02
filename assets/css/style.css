@@ -1,7 +1,7 @@
 /*--------Universal / global attributes--------*/
 /*Overall changes: 
--reorganized css style chunks into more efficient groups for easier reading and understanding
--added comments for all changes & finding grouped sections easier
+-Reorganized css style chunks into more efficient groups for easier reading and understanding
+-Added comments for all changes & finding grouped sections easier
 -changed font size from px to pt for easier readibility */
 
 * {
@@ -27,8 +27,8 @@ p {
 
 /*--------header and navigation--------*/
 /*Changes: 
-- changed div selector to nav
-- changed the nearly impossible to see seo class color to look better ;) */
+- Changed div selector to nav
+- Changed the nearly impossible to see seo class color to look better ;) */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -65,7 +65,7 @@ p {
 
 /*--------TOP BANNER--------*/
 /*Changes: 
-- switched name .hero to .top-banner for easier understanding for banner image */
+- Switched name .hero to .top-banner for easier understanding for banner image */
 .top-banner {
     height: 800px;
     width: 100%;
@@ -79,7 +79,7 @@ p {
 /*--------MAIN CONTENT AREAS--------*/
 /*Changes:
 - 3 main box/section classes consolidated into one class (.content-box) 
-- main content img & h2 classes consolidated into one class(content-box img & content-box h2) */
+- Main content img & h2 classes consolidated into one class(content-box img & content-box h2) */
 .content {
     width: 75%;
     display: inline-block;
@@ -105,7 +105,7 @@ p {
 }
 
 
-/*img floats for main subject box imgs*/
+/*Img floats for main subject box imgs*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -119,10 +119,10 @@ p {
 
 /*--------BENEFITS RIGHT ASIDE/BOX --------*/
 /*Changes:
-- listed benefits classes conslidated into one (.benefit-list)
-- benefit h3 & img also went from 3 separate to one (benefit-list h3 & benefit-list img)
-- added font-size for h3 for slightly better appearance & changed px to pt
-- added font-size for benefit p tags & changed from px to pt */
+- Listed benefits classes conslidated into one (.benefit-list)
+- Benefit h3 & img also went from 3 separate to one (benefit-list h3 & benefit-list img)
+- Added font-size for h3 for slightly better appearance & changed px to pt
+- Added font-size for benefit p tags & changed from px to pt */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -158,7 +158,7 @@ p {
 
 /*--------FOOTER--------*/
 /*Changes:
-- changed from h2 to h4 */
+- Changed from h2 to h4 */
 .footer {
     padding: 30px;
     clear: both;
