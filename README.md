@@ -16,7 +16,7 @@ Snip of some of the HTML after refactoring \
 Snip of some of the CSS after refactoring \
 ![Screenshot](https://github.com/macbetthh/horiseon-mod1-challenge/blob/main/assets/cssSnip-readme.png "CSS Snip") 
 
-Snip of the live page including the title showing in the tab on the browser \
+Snip of the live page including the title shown in the tab on the browser \
 ![Screenshot](https://github.com/macbetthh/horiseon-mod1-challenge/blob/main/assets/liveSnip-tabIncluded-readme.png "Live Page Snip") 
 
 ## Credits
